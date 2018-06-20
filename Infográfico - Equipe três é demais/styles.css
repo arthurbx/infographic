@@ -1,0 +1,134 @@
+.telaP{
+	position: absolute;
+	min-width: 80%;
+	left: 10%;
+}
+
+#upac1{
+	position: absolute;
+	width: 12%;
+	max-width: 12%;
+	bottom: 39.9%;
+	left: 40.2%;
+	opacity: 1;
+}
+.tela2{
+	position: absolute;
+	min-width: 80%;
+	left: 10%;
+}
+.tela3{
+	position: absolute;
+	min-width: 80%;
+	left: 10%;
+}
+#upac2{
+	position: absolute;
+	width: 11%;
+	max-width: 11%;
+	bottom: 14%;
+	left: 40.5%;
+	opacity: 1;
+}
+.setaE img{
+	position: absolute;
+	width: 5%;
+	max-width: 5%;
+	bottom: 46%;
+	left: 19%;
+}
+.setaD img{
+	position: absolute;
+	width: 3%;
+	max-width: 3%;
+	bottom: 6%;
+	left: 46%;
+}
+#hex{
+	position: absolute;
+	width: 14.5%;
+	left: 38.4%;
+	bottom: 62.7%;
+	opacity: 0;
+	cursor: pointer;
+}
+
+#hex2 {
+	position: absolute;
+	width: 14.5%;
+	left: 49.7%;
+	bottom: 49.5%;
+	opacity: 0;
+	cursor: pointer;
+}
+
+#hex3{
+	position: absolute;
+	width: 14.5%;
+	left: 27.2%;
+	bottom: 50%;
+	opacity: 0;
+	cursor: pointer;
+}
+#hex4{
+	position: absolute;
+	width: 14.5%;
+	left: 27.2%;
+	bottom: 22.8%;
+	opacity: 0;
+	cursor: pointer;
+}
+#hex5{
+	position: absolute;
+	width: 14.5%;
+	left: 50.5%;
+	bottom: 24%;
+	opacity: 0;
+	cursor: pointer;
+}
+#hex6{
+	position: absolute;
+	width: 14.5%;
+	left: 38.7%;
+	bottom: 7.5%;
+	opacity: 0;
+}
+#texto{
+	position: absolute;
+	width: 19%;
+	left: 36%;
+	bottom: 30%;
+}
+#btn {
+  position: absolute;
+  left: 41%;
+  bottom: 6%;
+  background: #f01150;
+  background-image: -webkit-linear-gradient(top, #f01150, #eb94a0);
+  background-image: -moz-linear-gradient(top, #f01150, #eb94a0);
+  background-image: -ms-linear-gradient(top, #f01150, #eb94a0);
+  background-image: -o-linear-gradient(top, #f01150, #eb94a0);
+  background-image: linear-gradient(to bottom, #f01150, #eb94a0);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 1px 1px 3px #666666;
+  -webkit-box-shadow: 0px 1px 3px #666666;
+  -moz-box-shadow: 0px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 7px 15px 7px 15px;
+  text-decoration: none;
+}
+
+#btn:hover {
+  background: #eb94a0;
+  background-image: -webkit-linear-gradient(top, #eb94a0, #f01150);
+  background-image: -moz-linear-gradient(top, #eb94a0, #f01150);
+  background-image: -ms-linear-gradient(top, #eb94a0, #f01150);
+  background-image: -o-linear-gradient(top, #eb94a0, #f01150);
+  background-image: linear-gradient(to bottom, #eb94a0, #f01150);
+  text-decoration: none;
+}
